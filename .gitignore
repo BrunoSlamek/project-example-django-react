@@ -1,0 +1,10 @@
+# vscode
+.vscode
+__pycache__
+
+# Pycharm
+.idea
+
+# Virtual Environments
+/env
+/venv
